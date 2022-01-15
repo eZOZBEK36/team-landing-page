@@ -1,0 +1,24 @@
+{
+	"name": "tp",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "gulp"
+	},
+	"author": "eZOZBEK36",
+	"license": "ISC",
+	"devDependencies": {
+		"browser-sync": "^2.27.7",
+		"del": "^6.0.0",
+		"gulp": "^4.0.2",
+		"gulp-autoprefixer": "^8.0.0",
+		"gulp-clean-css": "^4.3.0",
+		"gulp-group-css-media-queries": "^1.2.2",
+		"gulp-htmlmin": "^5.0.1",
+		"gulp-sass": "^5.1.0",
+		"gulp-webp-html-nosvg": "^1.0.2",
+		"sass": "^1.48.0"
+	}
+}
